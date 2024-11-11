@@ -20,7 +20,7 @@ use numbers to navigate the menu.
 1. The tool requires administrative privileges in order to access layer 2 to send and receive packets on your network. 
 2. This only works on devices that are wirelessly connected to your network. 
 
-# The innerworkings of the tool (for nerds)
+# The innerworkings of the tool.
 Deauthor uses the Layer 2 ARP protocol alongside that, the Dot11 protocol. Address Resolution Protocol is used to discover the hosts on your network. After all hosts have been scanned by simply selecting the number associated with "Scan Network" the programs output is as follows: 
 
 IP Address: 172.20.10.1 MAC Address: f6:0e:01:21:d0:64
